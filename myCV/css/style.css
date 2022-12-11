@@ -366,5 +366,7 @@ textarea {
 }
 
 /* style fonts start*/
-
+html {
+	font-family: 'Montserrat', sans-serif;
+}
 /* style fonts end */
